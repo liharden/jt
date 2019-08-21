@@ -1,0 +1,15 @@
+
+项目说明：
+	redis集群的配置跟上课的一样，但是还要在windows本地开一个单机的redis，而且还有注意修改配置文件中的ip，nginx的配置也一样的
+	
+	测试的时候一定要把项目的所有模块全部启动
+	秒杀操作：
+		先登录 --> 然后点击商品 --> 等倒计时结束时抢购
+	
+	swagger的地址：http://localhost:8080/swagger-ui.html#
+	
+	登录用户：
+		账号：tony，密码：123456
+		账号：admin123，密码：admin123456
+		账号：liuyujiang， 密码：123456
+	jtdb.sql就是这次项目的数据库
